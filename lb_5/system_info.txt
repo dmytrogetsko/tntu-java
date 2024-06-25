@@ -1,0 +1,10 @@
+2024-06-26 00:02:52 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:03:26 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:03:35 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:04:26 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:04:28 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:04:38 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:04:43 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:09:06 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:09:22 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima
+2024-06-26 00:09:52 OS: Linux amd64 6.5.0-35-generic Java: 21.0.2 (Oracle Corporation) User: dima

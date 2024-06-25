@@ -1,0 +1,44 @@
+@startuml
+
+class Mammal {
+    -String name
+    -int age
+    -Owner owner
+    +Mammal(String name, int age)
+    +void setOwner(Owner owner)
+    +void showBodyParts()
+    +void showLocalClass()
+
+    class Body {
+        +void show()
+    }
+
+    static class Heart {
+        +void pump()
+    }
+}
+
+class Owner {
+    -String name
+    +Owner(String name)
+}
+
+class Habitat {
+    -String name
+    -List<Mammal> mammals
+    +Habitat(String name)
+    +void addMammal(Mammal mammal)
+}
+
+class Zoo {
+    -String name
+    -List<Mammal> mammals
+    +Zoo(String name)
+    +void addMammal(Mammal mammal)
+}
+
+Mammal --> Owner : association
+Habitat o-- Mammal : aggregation
+Zoo *-- Mammal : composition
+
+@enduml
